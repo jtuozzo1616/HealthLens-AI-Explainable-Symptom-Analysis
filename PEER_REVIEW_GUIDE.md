@@ -5,6 +5,7 @@
 **Professor:** Srikanth Bhakthan  
 **Student:** José Miguel Tuozzo Izaguirre  
 **Time to review:** ~5–8 minutes  
+**Reviewer:** [Optional; assignment may use anonymous peer review]
 
 ## What the project is
 
