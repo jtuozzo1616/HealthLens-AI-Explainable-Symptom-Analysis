@@ -1,0 +1,19 @@
+HealthLens AI - Verified Local Software Tests
+Student: José Miguel Tuozzo Izaguirre
+Course: ITAI-2372 — Artificial Intel Applications
+Professor: Srikanth Bhakthan
+Environment: Python 3.13.5; see requirements.txt for dependencies
+No patient data used. Synthetic test outcomes are NOT clinical accuracy.
+
+pytest output:
+..........................                                               [100%]
+26 passed in 0.72s
+
+Synthetic evaluation:
+SYNTHETIC CLASSROOM TEST ONLY - NOT CLINICAL VALIDATION
+n_examples: 26
+synthetic_warning_recall: 100.0%
+synthetic_warning_specificity: 100.0%
+synthetic_topic_accuracy: 100.0%
+synthetic_unknown_abstention_rate: 100.0%
+

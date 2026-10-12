@@ -1,0 +1,72 @@
+{
+  "respiratory": [
+    "My nose is stuffy and I am coughing with a sore throat.",
+    "I keep coughing and have a runny nose and congestion.",
+    "There is a scratchy throat, sneezing, and a mild cough.",
+    "I have a cough, chills, and a fever since yesterday.",
+    "My throat hurts and I have nasal congestion.",
+    "Coughing along with a hoarse voice and stuffy nose.",
+    "I have cold-like symptoms with sneezing and a cough.",
+    "A sore throat and a blocked nose are bothering me."
+  ],
+  "headache": [
+    "I have a dull headache and pressure around my forehead.",
+    "My head aches after looking at a computer screen.",
+    "There is a pounding feeling on both sides of my head.",
+    "I feel head pain and tightness near my temples.",
+    "My head has been throbbing on and off.",
+    "I have a mild headache after a long day.",
+    "An aching sensation in my forehead is bothering me.",
+    "My temples feel tense with a headache."
+  ],
+  "digestive": [
+    "My stomach feels unsettled and I feel nauseated.",
+    "I have occasional loose stools and stomach cramps.",
+    "There is mild belly discomfort after eating.",
+    "I feel bloated and have an upset stomach.",
+    "I am nauseous and my stomach feels queasy.",
+    "I have occasional diarrhea and abdominal cramps.",
+    "My belly feels full and bloated after meals.",
+    "I have an upset stomach with mild nausea."
+  ],
+  "skin": [
+    "I noticed a small itchy rash on my arm.",
+    "My skin has red bumps and feels itchy.",
+    "There is a patch of irritated dry skin on my hand.",
+    "I have skin redness and some itching.",
+    "An itchy patch appeared on my leg.",
+    "My elbows have flaky skin and mild irritation.",
+    "I have dry patches and an itchy rash.",
+    "There are small red spots and itching on my wrist."
+  ],
+  "musculoskeletal": [
+    "My lower back feels stiff and sore after sitting.",
+    "I have muscle aches in my shoulders and neck.",
+    "My knee hurts when I go up stairs.",
+    "There is a mild ache in my wrist after typing.",
+    "My back muscles are sore after exercise.",
+    "I have stiffness and aching in my joints.",
+    "My shoulders feel tight and my neck hurts.",
+    "My ankle aches when I walk long distances."
+  ],
+  "urinary": [
+    "I feel burning when I urinate and need to go often.",
+    "I have frequent urination and discomfort while peeing.",
+    "It stings when I pee and I keep visiting the bathroom.",
+    "I feel pressure in my bladder and need to urinate often.",
+    "Urinating is uncomfortable and there is a burning sensation.",
+    "I have urinary urgency and mild bladder discomfort.",
+    "I keep needing to pee and feel burning during urination.",
+    "I have frequent bathroom trips and urinary discomfort."
+  ],
+  "eye_nose_allergy": [
+    "My eyes are itchy and I keep sneezing.",
+    "I have watery eyes and a runny nose.",
+    "My nose is itchy and I am sneezing repeatedly.",
+    "There is an itchy feeling in my eyes and nasal irritation.",
+    "I have sneezing and itchy watery eyes.",
+    "My eyes water and my nose runs when outside.",
+    "I keep sneezing with a ticklish nose and itchy eyes.",
+    "My nose itches and my eyes feel irritated and watery."
+  ]
+}
